@@ -1,5 +1,5 @@
 # Inteligencia-Artificial---UMC
-Repositorio para entregas de atividades do professor Fabiano Bezerra Menegidio na materia de Inteligencia Artificial do 6° Periodo da faculdade UMC(Universidade de Mogi das Cruzes)
+Repositorio para entregas de atividades do professor Fabiano Bezerra Menegidio dedicado ao armazenamento, organização e versionamento dos códigos, listas de exercícios, notebooks e projetos práticos desenvolvidos ao longo da disciplina de Inteligencia Artificial do 6° Periodo da faculdade UMC(Universidade de Mogi das Cruzes)
 
 ---
 
